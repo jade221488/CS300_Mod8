@@ -1,1 +1,15 @@
 # CS300_Mod8
+# What was the problem you were solving in the projects for this course?
+The problem I was solving in the projects in this course was deciding what is the best data structure for loading course data from the file, reading each line, transferring each course into an object, and ensuring that all course data is in the object. I compared the cost of each line of code for each data struture: vector, hash table, and binary search tree. Once I had compared all the data I was able to make a fair evaluation on all three data structures and concluded that the hash table would work best for the project.
+
+# How did you approach the problem? Consider why data structures are important to understand.
+I approached the problem by first writing out the psuedocode for each data structure. Then I took a segment of the code from each data structure and compared it in a runtime cost table. The runtime cost table allowed me to see a break down of each line and its cost along with the total cost that entire segment of code is. This is important to understand as different data structures have their strengths and weaknesses and depending on the scenario one data structure may be better than the other two depending on what the developer is prioritizing. If the developer wants a high performing program or if they are looking to have a program that can handle larger and more complex files instead then they may opt for one data structure over another.
+
+# How did you overcome any roadblocks you encountered while going through the activities or project?
+I was able to overcome some roadblocks throughout my journey in this course by always referring back to the resources provided and always doing my own research. Some readblocks I had were properly handling the data structures so that there are no leaks or overloads. I am still learning how to manage these concepts for different data structures, but having feedback from the professor and then always going back to resources like ZyBooks to see how to resolve the issue helped me. 
+
+# How has your work on this project expanded your approach to designing software and developing programs?
+My work on this project has expanded my knowedge in designing and developing as I was able to break down and separate the design and development process over a few weeks instead of doing it all in one day. Being able to focus just on psuedocode and the development of that psuedocode for one structure each week allowed me to focus just on once concept. Once all three strutures were created I was able to look back, compare, and reflect on all three data structures.
+
+# How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+My work in this project has changed the way I write programs as having psuedocode written up beforehand is like a guide and saves me a lot of time in the development process. Having comments on almost every single line of code helps make it easy to quickly understand why I wrote that piece of code if I am ever revising and need to revisit the code.
